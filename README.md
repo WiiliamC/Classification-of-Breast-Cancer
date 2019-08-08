@@ -26,7 +26,7 @@ Finally, these feature vectors are loaded. After training and testing, you'll ge
 | tensorflow / tensorflow-gpu |1.13.1  |
 | RAM |32GB|
 ## 3.How_to_train_your_own_model
-1.Unzip "project"  
+1.Unzip "project.zip"  
 2.Run "run.py"  
 3.After the program is finished, you can find your .pb model in the generated output folder.  
 ## 4.How_to_use_your_own_model_to_predict
