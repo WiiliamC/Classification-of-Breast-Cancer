@@ -1,11 +1,11 @@
 # Classification-of-Breast-Cancer
 ## Contents
-* ### [1.Introduction](1.Introduction)
-* ### [2.Prepare](2.Prepare)
-* ### [3.How_to_train_your_own_model](3.How_to_train_your_own_model)
-* ### [4.How_to_use_your_own_model_to_predict](4.How_to_use_your_own_model_to_classify_a_single_image)
-* ### [5.How_to_run_prediction_on_Intel_NCS2](4.How_to_use_your_own_model_to_classify_a_single_image)
-* ### [6.Expectation](4.How_to_use_your_own_model_to_classify_a_single_image)
+* ### [1.Introduction](#1.Introduction)
+* ### [2.Prepare](#2.Prepare)
+* ### [3.How_to_train_your_own_model](#3.How_to_train_your_own_model)
+* ### [4.How_to_use_your_own_model_to_predict](#4.How_to_use_your_own_model_to_classify_a_single_image)
+* ### [5.How_to_do_prediction_on_Intel_NCS2](#5.How_to_do_prediction_on_Intel_NCS2)
+* ### [6.Expectation](#6.Expectation)
 ## 1.Introduction
 In this project, we proposed a method for breast cancer classification. We can do classification on CPU, GPU or even Raspberry Pi with Intel NCS2.  
 Here is how we train our CNN:
