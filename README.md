@@ -18,8 +18,7 @@ InceptionV3 is a powerful image classification CNN provided by Google. In our pr
 After preprocessing, all the feature vectors (.txt) are stored in a new folder called "bottlenecks".  
 Next, we take 80% of the .txt files randomly as our training data and the left 20% as testing data. We put them respectively in two new folders named "train" and "test". In the "test" folder, there are 4 folders named "40x", "100x", "200x" and "400x". This is to make testing operation easier.  
 Finally, these feature vectors are loaded. After training and testing, you'll get a .pb model in a new folder named "output".
-In case some problem arises and stops you from training your own model, I'll upload a model I trained, THE ACCURACY OF WHICH REACHES AROUND 95%.  
-After training/downloading the model, you can try to do prediction with it.  
+After training the model, you can try to do prediction with it.  
 Furthermore, if you've installed OpenVINO, you can try to do inference on your CPU, GPU or Intel NCS2. In this way, you can realize breast cancer classification on a raspberry pi with an Intel NCS2.  
 ***
 ## 2.Prepare
